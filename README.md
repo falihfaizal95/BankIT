@@ -18,6 +18,7 @@ This is a beginner-friendly Java project that simulates a basic ATM (Automated T
 - `while` loops and `if-else` conditionals
 - `ArrayList<String>` for storing transaction history
 - Error checking and user prompts
+- Multi - Dimensional Arrays
 
 ## 📂 How to Run
 
